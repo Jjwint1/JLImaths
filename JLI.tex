@@ -766,8 +766,9 @@ $$
 c)
 
 \begin{center}
-  \begin{tabular}{l c c c c}
+  \begin{tabular}{l| c c c c}
     $n$ & 1 & 5 & 10 & 15 \\
+    \hline
     $y(n)$ & 59.8 & 275 & 400 & 225 \\
     $A(n) = \frac{y(n)}{n}$ & 59.8 & 55 & 40 & 15 \\
     $MPL(n) = \frac{\dd y(n)}{\dd n}$ & 59.4 & 45 & 0 & -75
@@ -780,15 +781,82 @@ d)
 
 e)
 
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{figures/5_Differentiation/LQ1e.png}
+\end{figure}
 
+2.
 
+a)
 
+$$
+  q(p) = q(p-1) - 10
+$$
 
+$$
+  = q(p-2) - 20
+$$
 
+$$
+  ... = q(0) - 10p
+$$
 
+$$
+  q(10) = q(0) - 100 = 100 \implies q(0) = 200
+$$
 
+$$
+  \therefore q(p) = 200 - 10p
+$$
 
+b)
 
+$$
+  C(q) = 5q
+$$
+
+c)
+
+$$
+  p(q) = 20 - \frac{q}{10}
+$$
+
+d)
+
+$$
+  \Pi(q) = q\cdot p(q) - C(q) = 15q - \frac{1}{10}q^2
+$$
+
+e)
+
+$$
+  \frac{\dd \Pi}{\dd q} = 15 - \frac{1}{5}q \overset{!}{=} 0 \implies q = 75
+$$
+
+$$
+  p(75) = \text{£}13.5
+$$
+
+$$
+  \Pi(75) = \text{£}562.50
+$$
+
+f)
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{figures/5_Differentiation/LQ2f.png}
+\end{figure}
+
+g)
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{figures/5_Differentiation/LQ2g.png}
+\end{figure}
+
+To maximise profits subject to the new law, we must find the maximal point on the profit curve in the region $q\geq80$. This is clearly at $q=80$, so the new price is $p(80) = \text{£}12$.
 
 
 

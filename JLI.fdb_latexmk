@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1596994225 "JLI.tex" "JLI.pdf" "JLI" 1596994257
+["pdflatex"] 1597238908 "JLI.tex" "JLI.pdf" "JLI" 1597238925
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1136768653 1536 b3387106d9afecbfe14bde2de6eadf47 ""
@@ -81,8 +81,8 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1587941938 4814828 0dce0b19e005c2a7b2784567abb00307 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1587942154 2432313 f64904a1e5663e191219785654441683 ""
   "/usr/local/texlive/2020/texmf.cnf" 1587941908 577 d60164b4589a341208aff7a667fbbdcb ""
-  "JLI.aux" 1596994256 1185 83b25756ad9719d589edb9918bc014ed "pdflatex"
-  "JLI.tex" 1596994223 15443 36943b1fec12c8cc3269d3dbb56306fa ""
+  "JLI.aux" 1597238925 1185 83b25756ad9719d589edb9918bc014ed "pdflatex"
+  "JLI.tex" 1597238907 16765 98121a2c0e109330713e6f708ca46cde ""
   "figures/4_Functions/LQ1f.png" 1596969061 220653 49528934d7f93f6e4d1af5fad5fe91e7 ""
   "figures/4_Functions/LQ1g.png" 1596969064 207481 ead5789b0ee28ab9078ecfd54eaba464 ""
   "figures/4_Functions/LQ1i.png" 1596969067 179241 96fa0f092333a57ba57483c8d1465c3e ""
@@ -90,11 +90,14 @@
   "figures/4_Functions/LQ2biii.png" 1596974112 167163 76b60b40e0eea5d671dc9ebe2730560e ""
   "figures/4_Functions/LQ2ci.png" 1596974115 124418 efe34fd201ca1d933a88428478e529b2 ""
   "figures/4_Functions/QQ3d.png" 1596969590 135995 2d34973a4fd9ad29987fcb5103b230c7 ""
+  "figures/5_Differentiation/LQ1e.png" 1597231681 187286 debe2d626ba547c5bc8267b2b234776e ""
+  "figures/5_Differentiation/LQ2f.png" 1597238753 187187 471e3cae054e5d5bd3cf0f28755d576f ""
+  "figures/5_Differentiation/LQ2g.png" 1597238757 199441 d86807fed8bc409f01286870f6904b97 ""
   "figures/5_Differentiation/QQ4a.png" 1596993307 175057 0bad4649ada155ab06a9e598ca73de6c ""
   "figures/5_Differentiation/QQ4b.png" 1596993311 167867 15f499f0d8d2daf8acef3cc1b8ad76aa ""
   "figures/5_Differentiation/QQ4c.png" 1596993315 183718 3754b734d08b9724b55915be9263e63d ""
   "figures/5_Differentiation/QQ5.png" 1596993825 172976 b74f4272d90da30842adedbb2a072494 ""
   (generated)
-  "JLI.pdf"
   "JLI.log"
+  "JLI.pdf"
   "JLI.aux"
